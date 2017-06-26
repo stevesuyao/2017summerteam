@@ -1,6 +1,6 @@
 # 2017summerteam
 repo for team practice
 
-- [ ] Jesus
+- [x] Jesus
 - [ ] Daniel
 - [ ] Andrea
