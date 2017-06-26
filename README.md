@@ -4,4 +4,4 @@ repo for team practice
 
 - [x] Jesus
 - [x] Daniel
-- [ ] Andrea
+- [X] Andrea
