@@ -2,5 +2,5 @@
 repo for team practice
 
 - [ ] Jesus
-- [ ] Daniel
+- [x] Daniel
 - [ ] Andrea
