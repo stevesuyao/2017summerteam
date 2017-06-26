@@ -8,6 +8,9 @@ function Person(name) {
 }
 
 var person1 = new Person('Steve');
+var jesus = new Person('Jesus');
+
 person1.greeting(); // 'Hi! I'm steve'
+jesus.greeting();
 
 //add Jesus, Daniel, Andrea
