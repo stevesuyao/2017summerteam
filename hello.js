@@ -10,4 +10,7 @@ function Person(name) {
 var person1 = new Person('Steve');
 person1.greeting(); // 'Hi! I'm steve'
 
+var Daniel = new Person('Daniel');
+Daniel.greeting(); // 'Hi! I'm Daniel'
+
 //add Jesus, Daniel, Andrea
